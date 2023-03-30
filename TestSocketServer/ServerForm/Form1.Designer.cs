@@ -1,4 +1,4 @@
-﻿namespace SocketServerGUI
+﻿namespace ServerForm
 {
     partial class Form1
     {

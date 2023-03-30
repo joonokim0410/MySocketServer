@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace SocketServerGUI.Properties
+namespace ServerForm.Properties
 {
 
 
