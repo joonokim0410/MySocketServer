@@ -2,12 +2,12 @@
 using System.Net.Sockets;
 using System.Text;
 
-namespace Example
+namespace Server
 {
     class Program
     {
         // Task method
-        static async Task Runserver (int port)
+        static async Task Runserver(int port)
         {
             // socket endpoint
             var ipep = new IPEndPoint(IPAddress.Any, 10000);
